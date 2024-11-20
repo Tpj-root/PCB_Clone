@@ -97,7 +97,7 @@ This makes it easier to create the schematic.
 | 10 | LM358DR|  <p align="center"><img src="PARTS_LIST/10.jpg" height="80"></p> | <p align="center"><img src="Symbol/10.jpg" height="80"></p> | 20 | LM358DR SOIC-8 High Gain Operational Amplifier-5Pcs |
 | 11 | LM317MDT|  <p align="center"><img src="PARTS_LIST/11.jpg" height="80"></p> | <p align="center"><img src="Symbol/11.jpg" height="80"></p> | 20 | LM317MDT-TR STMICROELECTRONICS Linear Voltage Regulator |
 | 12 | Transistor HF|  <p align="center"><img src="PARTS_LIST/12.jpg" height="80"></p> | <p align="center"><img src="Symbol/12.png" height="80"></p> | 20 | uxcell 150pcs C1815 Transistor HF NPN 50V 150mA 200mW Surface Mount SOT-23  |
-| 13 | 2N7002|  <p align="center"><img src="PARTS_LIST/12.png" height="80"></p> | <p align="center"><img src="Symbol/13.jpg" height="80"></p> | 20 | 2N7002 - MOSFET 60V 115mA SOT-23 |
+| 13 | 2N7002|  <p align="center"><img src="PARTS_LIST/13.png" height="80"></p> | <p align="center"><img src="Symbol/12.png" height="80"></p> | 20 | 2N7002 - MOSFET 60V 115mA SOT-23 |
 | 14 | Capacitor|  <p align="center"><img src="PARTS_LIST/14.jpg" height="80"></p> | <p align="center"><img src="Symbol/14.jpg" height="80"></p> | 20 | C1  =    {maybe 0.1uf  SMD |
 | 15 | Capacitor|  <p align="center"><img src="PARTS_LIST/15.jpg" height="80"></p> | <p align="center"><img src="Symbol/14.jpg" height="80"></p> | 20 | C2  =  220uf (cyliinder capcitor) 25v       TH |
 | 16 | Capacitor|  <p align="center"><img src="PARTS_LIST/16.jpg" height="80"></p> | <p align="center"><img src="Symbol/14.jpg" height="80"></p> | 20 | C3  = 4.7uf (cyliinder capcitor) ??v    TH |
