@@ -88,7 +88,7 @@ This makes it easier to create the schematic.
 | 01 | DB25 D-Sub |  <p align="center"><img src="PARTS_LIST/01.jpg" height="80"></p> | <p align="center"><img src="Symbol/01.png" height="80"></p> | 20 | 25Pin Male DB25 D-Sub Connector Right Angle with Screw Pitch 2.77mm |
 | 02 | USB Type-A Female |  <p align="center"><img src="PARTS_LIST/02.jpg" height="80"></p> | <p align="center"><img src="Symbol/02.jpg" height="80"></p> | 20 | USB Type-A Female Connector  |
 | 03 |  JST XH 2.5mm|  <p align="center"><img src="PARTS_LIST/03.jpg" height="80"></p> | <p align="center"><img src="Symbol/03.jpg" height="80"></p> | 20 | 4 pin JST XH 2.5mm Top Entry Header |
-| 04 | 3P 5mm 10A|  <p align="center"><img src="PARTS_LIST/04.jpg" height="80"></p> | <p align="center"><img src="Symbol/04.png" height="80"></p> | 20 | 3P 5mm 10A Screw Terminal Heavy |
+| 04 | 3P 5mm 10A|  <p align="center"><img src="PARTS_LIST/04.png" height="80"></p> | <p align="center"><img src="Symbol/04.png" height="80"></p> | 20 | 3P 5mm 10A Screw Terminal Heavy |
 | 05 | Jumper|  <p align="center"><img src="PARTS_LIST/05.jpg" height="80"></p> | <p align="center"><img src="Symbol/05.jpg" height="80"></p> | 2 | Mini Jumper Short Circuit Cap Yellow 2Pin 2.54mm |
 | 06 | Relay|  <p align="center"><img src="PARTS_LIST/06.jpg" height="80"></p> | <p align="center"><img src="Symbol/06.jpg" height="80"></p> | 20 | 5V 10A PCB Mount Sugar Cube Relay - SPDT |
 | 07 | M7 Diode|  <p align="center"><img src="PARTS_LIST/07.jpg" height="80"></p> | <p align="center"><img src="Symbol/07.jpg" height="80"></p> | 20 | M7 Diode (1N4007 SMD)- SMA (DO-214AC) |
@@ -102,7 +102,7 @@ This makes it easier to create the schematic.
 | 15 | Capacitor|  <p align="center"><img src="PARTS_LIST/15.jpg" height="80"></p> | <p align="center"><img src="Symbol/15.jpg" height="80"></p> | 20 | C2  =  220uf (cyliinder capcitor) 25v       TH |
 | 16 | Capacitor|  <p align="center"><img src="PARTS_LIST/16.jpg" height="80"></p> | <p align="center"><img src="Symbol/16.jpg" height="80"></p> | 20 | C3  = 4.7uf (cyliinder capcitor) ??v    TH |
 | 17 | Capacitor|  <p align="center"><img src="PARTS_LIST/17.jpg" height="80"></p> | <p align="center"><img src="Symbol/17.jpg" height="80"></p> | 20 | C4  =  R11  =   472  ??? WHY SAME VALUE |
-| 18 | Capacitor|  <p align="center"><img src="PARTS_LIST/18.jpeg" height="80"></p> | <p align="center"><img src="Symbol/18.jpg" height="80"></p> | 20 | C5  = 220uf (cyliinder capcitor) 25v      TH |
+| 18 | Capacitor|  <p align="center"><img src="PARTS_LIST/18.jpg" height="80"></p> | <p align="center"><img src="Symbol/18.jpg" height="80"></p> | 20 | C5  = 220uf (cyliinder capcitor) 25v      TH |
 | 19 | Capacitor|  <p align="center"><img src="PARTS_LIST/19.jpg" height="80"></p> | <p align="center"><img src="Symbol/19.jpg" height="80"></p> | 20 | C6  =  220uf (cyliinder capcitor) 35v     TH |
 | 20 | Capacitor|  <p align="center"><img src="PARTS_LIST/20.jpg" height="80"></p> | <p align="center"><img src="Symbol/20.jpg" height="80"></p> | 20 | C7  =  {maybe 0.1uf   SMD |
 | 21 | Capacitor|  <p align="center"><img src="PARTS_LIST/21.jpg" height="80"></p> | <p align="center"><img src="Symbol/21.jpg" height="80"></p> | 20 | C8  =  {maybe 0.1uf   SMD |
@@ -111,7 +111,7 @@ This makes it easier to create the schematic.
 | 24 | RESISTOR|  <p align="center"><img src="PARTS_LIST/24.jpg" height="80"></p> | <p align="center"><img src="Symbol/24.jpg" height="80"></p> | 20 | R11  =   472 |
 | 25 | RESISTOR|  <p align="center"><img src="PARTS_LIST/25.svg" height="80"></p> | <p align="center"><img src="Symbol/25.jpg" height="80"></p> | 20 | R12  =   123 |
 | 26 | RESISTOR|  <p align="center"><img src="PARTS_LIST/26.jpg" height="80"></p> | <p align="center"><img src="Symbol/26.jpg" height="80"></p> | 20 | R14  =   472 |
-| 27 | RESISTOR|  <p align="center"><img src="PARTS_LIST/27.jpg" height="80"></p> | <p align="center"><img src="Symbol/27.jpg" height="80"></p> | 20 | R8, 13  =   511  = 2nos  |
+| 27 | RESISTOR|  <p align="center"><img src="PARTS_LIST/27.png" height="80"></p> | <p align="center"><img src="Symbol/27.jpg" height="80"></p> | 20 | R8, 13  =   511  = 2nos  |
 | 28 | RESISTOR|  <p align="center"><img src="PARTS_LIST/28.jpg" height="80"></p> | <p align="center"><img src="Symbol/28.jpg" height="80"></p> | 20 | R7, 10, 15, R16   =   222   = 4nos |
 | 29 | RESISTOR|  <p align="center"><img src="PARTS_LIST/29.jpg" height="80"></p> | <p align="center"><img src="Symbol/29.jpg" height="80"></p> | 20 | R18, 19 = 301   = 2nos |
 | 30 | RESISTOR|  <p align="center"><img src="PARTS_LIST/30.jpg" height="80"></p> | <p align="center"><img src="Symbol/30.jpg" height="80"></p> | 20 | SMD LED = 12-24v , Reley, PWK(5V) = 3 nos |
