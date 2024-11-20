@@ -76,6 +76,21 @@ This makes it easier to create the schematic.
 
 
 
+
+
+
+# PCB PARTS LIST
+
+
+
+| No | Name | Image | PCB_symbol | Price |  Info  |
+| --- |  --- | :---: | :---: | --- |
+| 01 | DB25 D-Sub |  <p align="center"><img src="PARTS_LIST/01.jpg" height="80"></p> | <p align="center"><img src="Symbol/01.jpg" height="80"></p> | 20 | 25Pin Male DB25 D-Sub Connector Right Angle with Screw Pitch 2.77mm |
+| 01 | DB25 D-Sub |  <p align="center"><img src="PARTS_LIST/01.jpg" height="80"></p> | <p align="center"><img src="Symbol/01.jpg" height="80"></p> | 20 | 25Pin Male DB25 D-Sub Connector Right Angle with Screw Pitch 2.77mm |
+
+
+
+
 **Ki-Cad_Tips**
 
 
@@ -86,7 +101,7 @@ This makes it easier to create the schematic.
 
 
 
-Study:
+**Study:**
 
 https://www.nextpcb.com/blog/pcb-clone
 https://www.proto-electronics.com/blog/the-top-5-rules-for-digital-pcb-design
