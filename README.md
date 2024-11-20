@@ -84,7 +84,7 @@ This makes it easier to create the schematic.
 
 
 | No | Name | Image | PCB_symbol | Price |  Info  |
-| --- |  --- | :---: | :---: | --- |
+| --- |  --- | :---: | :---: | --- | --- |
 | 01 | DB25 D-Sub |  <p align="center"><img src="PARTS_LIST/01.jpg" height="80"></p> | <p align="center"><img src="Symbol/01.jpg" height="80"></p> | 20 | 25Pin Male DB25 D-Sub Connector Right Angle with Screw Pitch 2.77mm |
 | 01 | DB25 D-Sub |  <p align="center"><img src="PARTS_LIST/01.jpg" height="80"></p> | <p align="center"><img src="Symbol/01.jpg" height="80"></p> | 20 | 25Pin Male DB25 D-Sub Connector Right Angle with Screw Pitch 2.77mm |
 
