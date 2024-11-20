@@ -6,17 +6,15 @@ Cloning a PCB involves creating an exact copy by reverse-engineering its layout,
 
 
 
-
-
 **PCB Cloning procedure**
 
 
 <p align="center">
-  <img src="Scan_copy/PCB_FRONT.png" width="210" height="297">
-  <img src="Scan_copy/PCB_BACK.png" width="210" height="297">
-  <img src="Scan_copy/PCB_BACK_WIRE.png" width="210" height="297">
-  <img src="Scan_copy/PCB_COMPONEN_0.png" width="210" height="297">
-  <img src="Scan_copy/PCB_COMPONENT_1.png" width="210" height="297">
+  <img src="thumbnail/PCB_FRONT_thumbnail.png" width="210" height="297">
+  <img src="thumbnail/PCB_BACK_thumbnail.png" width="210" height="297">
+  <img src="thumbnail/PCB_BACK_WIRE_thumbnail.png" width="210" height="297">
+  <img src="thumbnail/PCB_COMPONEN_0_thumbnail.png" width="210" height="297">
+  <img src="thumbnail/PCB_COMPONENT_1_thumbnail.png" width="210" height="297">
 </p>
 
 
@@ -124,7 +122,7 @@ https://github.com/bobricius/PyPrCa
 https://github.com/Jean-MarcHarvengt/MCUME/tree/master
 
 
-https://github.com/Jean-MarcHarvengt/MCUME/blob/master/MCUME_pico/schematic/MCUME_REV1/Schematic_MCUMEpico_2021-04-10.png
+https://github.com/Jean-MarcHarvengt/MCUME/blob/master/MCUME_pico/schematic/MCUME_REV1/Schematic_MCUMEpico_2021-04-10_thumbnail.png
 
 
 
