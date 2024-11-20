@@ -19,6 +19,14 @@ Cloning a PCB involves creating an exact copy by reverse-engineering its layout,
 
 
 
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dnLf7mSDg4Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+
 **Step:1**
 
 
