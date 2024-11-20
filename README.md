@@ -88,7 +88,7 @@ This makes it easier to create the schematic.
 | 01 | DB25 D-Sub |  <p align="center"><img src="PARTS_LIST/01.jpg" height="80"></p> | <p align="center"><img src="Symbol/01.png" height="80"></p> | 20 | 25Pin Male DB25 D-Sub Connector Right Angle with Screw Pitch 2.77mm |
 | 02 | USB Type-A Female |  <p align="center"><img src="PARTS_LIST/02.jpg" height="80"></p> | <p align="center"><img src="Symbol/02.jpg" height="80"></p> | 20 | USB Type-A Female Connector  |
 | 03 |  JST XH 2.5mm|  <p align="center"><img src="PARTS_LIST/03.jpg" height="80"></p> | <p align="center"><img src="Symbol/03.jpg" height="80"></p> | 20 | 4 pin JST XH 2.5mm Top Entry Header |
-| 04 | 3P 5mm 10A|  <p align="center"><img src="PARTS_LIST/04.png" height="80"></p> | <p align="center"><img src="Symbol/04.png" height="80"></p> | 20 | 3P 5mm 10A Screw Terminal Heavy |
+| 04 | 3P 5mm 10A|  <p align="center"><img src="PARTS_LIST/04.png" height="80"></p> | <p align="center"><img src="Symbol/04.jpg" height="80"></p> | 20 | 3P 5mm 10A Screw Terminal Heavy |
 | 05 | Jumper|  <p align="center"><img src="PARTS_LIST/05.jpg" height="80"></p> | <p align="center"><img src="Symbol/05.jpg" height="80"></p> | 2 | Mini Jumper Short Circuit Cap Yellow 2Pin 2.54mm |
 | 06 | Relay|  <p align="center"><img src="PARTS_LIST/06.jpg" height="80"></p> | <p align="center"><img src="Symbol/06.png" height="80"></p> | 20 | 5V 10A PCB Mount Sugar Cube Relay - SPDT |
 | 07 | M7 Diode|  <p align="center"><img src="PARTS_LIST/07.jpg" height="80"></p> | <p align="center"><img src="Symbol/07.jpg" height="80"></p> | 20 | M7 Diode (1N4007 SMD)- SMA (DO-214AC) |
@@ -97,7 +97,7 @@ This makes it easier to create the schematic.
 | 10 | LM358DR|  <p align="center"><img src="PARTS_LIST/10.jpg" height="80"></p> | <p align="center"><img src="Symbol/10.jpg" height="80"></p> | 20 | LM358DR SOIC-8 High Gain Operational Amplifier-5Pcs |
 | 11 | LM317MDT|  <p align="center"><img src="PARTS_LIST/11.jpg" height="80"></p> | <p align="center"><img src="Symbol/11.jpg" height="80"></p> | 20 | LM317MDT-TR STMICROELECTRONICS Linear Voltage Regulator |
 | 12 | Transistor HF|  <p align="center"><img src="PARTS_LIST/12.jpg" height="80"></p> | <p align="center"><img src="Symbol/12.png" height="80"></p> | 20 | uxcell 150pcs C1815 Transistor HF NPN 50V 150mA 200mW Surface Mount SOT-23  |
-| 13 | 2N7002|  <p align="center"><img src="PARTS_LIST/13.png" height="80"></p> | <p align="center"><img src="Symbol/13.jpg" height="80"></p> | 20 | 2N7002 - MOSFET 60V 115mA SOT-23 |
+| 13 | 2N7002|  <p align="center"><img src="PARTS_LIST/12.png" height="80"></p> | <p align="center"><img src="Symbol/13.jpg" height="80"></p> | 20 | 2N7002 - MOSFET 60V 115mA SOT-23 |
 | 14 | Capacitor|  <p align="center"><img src="PARTS_LIST/14.jpg" height="80"></p> | <p align="center"><img src="Symbol/14.jpg" height="80"></p> | 20 | C1  =    {maybe 0.1uf  SMD |
 | 15 | Capacitor|  <p align="center"><img src="PARTS_LIST/15.jpg" height="80"></p> | <p align="center"><img src="Symbol/14.jpg" height="80"></p> | 20 | C2  =  220uf (cyliinder capcitor) 25v       TH |
 | 16 | Capacitor|  <p align="center"><img src="PARTS_LIST/16.jpg" height="80"></p> | <p align="center"><img src="Symbol/14.jpg" height="80"></p> | 20 | C3  = 4.7uf (cyliinder capcitor) ??v    TH |
