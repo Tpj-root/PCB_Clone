@@ -1,0 +1,57 @@
+
+------------------------------
+LPT PINS  1 - 25 TH
+P-USB PIN = 1 nos TH
+4 pin male socket type = 5 nos TH
+6pins wire = 4 nos   TH
+3pins wire = 1 nos   TH
+
+P2 = jumper pin (2pins) = 1no TH
+
+K3  = FL-3ff-s-z 5VDC  (relay)   TH 
+
+M7 (diode) SMD
+
+
+
+-----------------------
+
+U1 and U2  =  74HC245D   = 2nos  SMD
+
+U3,4,5,6,7, U10 = PC817C = 6nos TH
+U8 = LM358 = 1no SMD
+
+LM317 = 1 no SMD
+Q1 = H F         SMD
+Q2 = 7002          SMD
+
+---------------------------
+# capacitors
+C1  =    {maybe 0.1uf  SMD
+
+C2  =  220uf (cyliinder capcitor) 25v       TH
+
+C3  = 4.7uf (cyliinder capcitor) ??v    TH
+C4  =  R11  =   472  ??? WHY SAME VALUE
+C5  = 220uf (cyliinder capcitor) 25v      TH
+C6  =  220uf (cyliinder capcitor) 35v     TH
+C7  =  {maybe 0.1uf   SMD
+C8  =  {maybe 0.1uf   SMD
+
+
+--------------------------
+# RESISTOR ALL ARE IN SMD
+R01,02,03  = 103 = 3nos    (package type) (8pins)
+R1,2,3,4,5,6, 17  =   102  = 6nos 
+
+R11  =   472
+R12  =   123
+R14  =   472
+R8, 13  =   511  = 2nos 
+R7, 10, 15, R16   =   222   = 4nos
+R18, 19 = 301   = 2nos
+
+SMD LED = 12-24v , Reley, PWK(5V)
+= 3 nos
+--------------------------
+
