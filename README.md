@@ -1,5 +1,63 @@
-# PCB_Clone
+_Clone
 Cloning a PCB involves creating an exact copy by reverse-engineering its layout, components, and connections. This process includes capturing the schematic, tracing all circuit pathways, and recreating the PCB design in E-CAD software for reproduction.
+
+
+
+
+
+
+
+
+**PCB Cloning procedure**
+
+
+<p align="center">
+  <img src="Scan_copy/PCB_FRONT.png" width="210" height="297">
+  <img src="Scan_copy/PCB_BACK.png" width="210" height="297">
+  <img src="Scan_copy/PCB_BACK_WIRE.png" width="210" height="297">
+  <img src="Scan_copy/PCB_COMPONEN_0.png" width="210" height="297">
+  <img src="Scan_copy/PCB_COMPONENT_1.png" width="210" height="297">
+</p>
+
+
+
+**Step:1**
+
+
+First, remove all the components.
+
+
+**Step:2**
+
+
+Next, capture the PCB board.
+
+
+**Step:3**
+
+
+Then, dip the PCB into heated hydrogen peroxide.
+
+
+**Step:4**
+
+
+This will remove all the PCB mask, allowing you to view the copper traces of the PCB.
+
+
+**Step:5**
+
+
+This makes it easier to create the schematic.
+
+
+
+
+
+
+
+**Ki-Cad_Tips**
+
 
 
 
