@@ -10,11 +10,11 @@ Cloning a PCB involves creating an exact copy by reverse-engineering its layout,
 
 
 <p align="center">
-  <img src="thumbnail/PCB_FRONT_thumbnail.png" width="210" height="297">
-  <img src="thumbnail/PCB_BACK_thumbnail.png" width="210" height="297">
-  <img src="thumbnail/PCB_BACK_WIRE_thumbnail.png" width="210" height="297">
-  <img src="thumbnail/PCB_COMPONEN_0_thumbnail.png" width="210" height="297">
-  <img src="thumbnail/PCB_COMPONENT_1_thumbnail.png" width="210" height="297">
+  <img src="Scan_copy/thumbnail/PCB_FRONT_thumbnail.png" width="210" height="297">
+  <img src="Scan_copy/thumbnail/PCB_BACK_thumbnail.png" width="210" height="297">
+  <img src="Scan_copy/thumbnail/PCB_BACK_WIRE_thumbnail.png" width="210" height="297">
+  <img src="Scan_copy/thumbnail/PCB_COMPONEN_0_thumbnail.png" width="210" height="297">
+  <img src="Scan_copy/thumbnail/PCB_COMPONENT_1_thumbnail.png" width="210" height="297">
 </p>
 
 
