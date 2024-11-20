@@ -25,6 +25,21 @@ Cloning a PCB involves creating an exact copy by reverse-engineering its layout,
 
 
 
+**pcb board copper clad**
+
+
+
+<p align="center">
+  <img src="PCB/PCB_B_Filp.jpg" width="297" height="210">
+  <img src="PCB/PCB_B.jpg" width="297" height="210">
+  <img src="PCB/PCB_F.jpg" width="297" height="210">
+</p>
+
+
+
+
+
+
 
 **Step:1**
 
