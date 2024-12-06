@@ -114,7 +114,7 @@ This makes it easier to create the schematic.
 | 27 | RESISTOR|  <p align="center"><img src="PARTS_LIST/27.png" height="80"></p> | <p align="center"><img src="Symbol/23.png" height="80"></p> | 20 | R8, 13  =   511  = 2nos  |
 | 28 | RESISTOR|  <p align="center"><img src="PARTS_LIST/28.jpg" height="80"></p> | <p align="center"><img src="Symbol/23.png" height="80"></p> | 20 | R7, 10, 15, R16   =   222   = 4nos |
 | 29 | RESISTOR|  <p align="center"><img src="PARTS_LIST/29.jpg" height="80"></p> | <p align="center"><img src="Symbol/23.png" height="80"></p> | 20 | R18, 19 = 301   = 2nos |
-| 30 | RESISTOR|  <p align="center"><img src="PARTS_LIST/30.jpg" height="80"></p> | <p align="center"><img src="Symbol/23.png" height="80"></p> | 20 | SMD LED = 12-24v , Reley, PWK(5V) = 3 nos |
+| 30 | SMD LED|  <p align="center"><img src="PARTS_LIST/30.jpg" height="80"></p> | <p align="center"><img src="Symbol/23.png" height="80"></p> | 20 | SMD LED = 12-24v , Reley, PWK(5V) = 3 nos |
 
 
 
